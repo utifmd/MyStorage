@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.0_fb3f4a10f11386cd21e271bcabbca75d0d067ac5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.2.0_0ed5e9c2e9b6b865b230d9cca603e1240082413f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.0_9429e03e3ba6b9064ae7c687c7709aeaec3f67c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.0_0268ed8a5ec37112cd850386dc128afefa769744/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_be6a738435b1a656181b624cb9f6c1bd88f0aa6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="977d57354ef7ef4faa604b802d4907728e0db889">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_23b51f2f95c59513352133c222d171ecf786e317/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_fd556921598b42c0ca5b248112c5ae336c56186a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.2.0_e5bf035a4dd27bff7d04e187819a3bdd83ec59fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_79fc7de19017085c11f0fd280653120c32da7b86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.2.0_57c2aef619e830ba8166af768923be57ec41b045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="761c6edc24205b4ba09d34bbe3d422a944ff3893">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d33b7e4a015bdfbbded41d6d0a8ea2a45e7f1c12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.0_84e832ebca0eab3c71b8ce7aaaa1a45712160688/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_50a437952fd0b5d8af0047ac649279cf31301b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="650cf8686cd625acfbdd43f8ab33f6f2f057605f">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_6cd50e41b2a0914d55937a11fdb7ec17c8c2c6b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="840a3dc7e0f038738fc354160a9ef7ce535d04ff">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.7_4f6fabad47604653410ffa5ac56dce8999827a7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_19c80244963a567526229b2e2433db365e211092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_7189da1aab1e7cf2e1ebc748252c14b6834319ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.2.0_46351987d0e1f31108f819b13291fcd1f58c6cbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_a42905134daf22a8b33d210d71680d574ecc0f21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.0_7c00c132df08411c086f03917a19b2efe7fa6443/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.2.0_b0290e7041f596ae52a073398d93b02d5dac9ae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9883b588a513cfa2de57ae7764f4604dfd82a178">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_606a9bc69fa3c9e229bea0e5c2936e4fe9b8319c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.0_ee7877955e61634c027d5d704ab28a8b824eb609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.0_fb893442b94683ad55b7da42cd9da5147f8c4d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_8de05f2ac77498444b7dbf6c724b2a25fca7e641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/utif/AndroidStudioProjects/MyStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_6e95c8a28bfbc58f99ae5f75ee3aecbbd0b94d7a/classes.dex" />
+    </item>
+
+</items>
